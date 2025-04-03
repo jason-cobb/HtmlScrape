@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HtmlScrape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee44f8fba5d91d23b6002d4a310984ccbdd15ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("HtmlScrape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HtmlScrape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

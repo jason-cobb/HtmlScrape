@@ -43,3 +43,4 @@ C:\Users\jason\Source\Repos\jason-cobb\HtmlScrape\HtmlScrape\obj\Debug\net6.0\re
 C:\Users\jason\Source\Repos\jason-cobb\HtmlScrape\HtmlScrape\obj\Debug\net6.0\HtmlScrape.pdb
 C:\Users\jason\Source\Repos\jason-cobb\HtmlScrape\HtmlScrape\obj\Debug\net6.0\HtmlScrape.genruntimeconfig.cache
 C:\Users\jason\Source\Repos\jason-cobb\HtmlScrape\HtmlScrape\obj\Debug\net6.0\ref\HtmlScrape.dll
+C:\Users\jason\Source\Repos\jason-cobb\HtmlScrape\HtmlScrape\obj\Debug\net6.0\HtmlScrape.sourcelink.json

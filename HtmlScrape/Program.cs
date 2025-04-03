@@ -1,18 +1,13 @@
-﻿using System.Net.Http;
-using HtmlAgilityPack;
-using HtmlScrape;
+﻿using System;
+using MediaOutlets.cs;
 
-public class Program
-{
-    public static async Task Main(string[] args)
-    {
+Console.WriteLine("Hello, World!");
 
-        List<MediaOutlets> list = new List<MediaOutlets>();
-        string url = "https://about.burbio.com/about-us";
-        List<MediaOutlets> outletslist = await DownloadHelper.GetValuesFromHtml(url);
+// Add more code here...
+List<MediaOutlets> list = new List<MediaOutlets>();
+string url = "https://about.burbio.com/about-us";
+List<MediaOutlets> outletslist = await DownloadHelper.GetValuesFromHtml(url);
 
 
-    }
 
-}
 
